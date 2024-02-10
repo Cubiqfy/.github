@@ -1,5 +1,5 @@
 # Cubiqfy
-
+![Banner Discord](BannerDiscord.png)
 ## 💬 ¿Quiénes somos?
 Somos un servidor de minecraft basado en el plugin minecraft que muchos plugins tantos propios como externos
 
